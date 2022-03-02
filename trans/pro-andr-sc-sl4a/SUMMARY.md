@@ -1,3 +1,4 @@
++   [Android SL4A 脚本编程高级教程](README.md)
 +   [零、前言](00.md)
 +   [一、简介](01.md)
 +   [二、入门指南](02.md)
@@ -9,4 +10,3 @@
 +   [八、基于 Python 对话框的图形用户界面](08.md)
 +   [九、使用 HTML 的 Python GUIs](09.md)
 +   [十、打包和分发](10.md)
-+   [Android SL4A 脚本编程高级教程](README.md)
