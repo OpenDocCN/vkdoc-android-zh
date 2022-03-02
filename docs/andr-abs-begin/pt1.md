@@ -1,1 +1,1 @@
-# Part IGet Android，开始使用
+# 第一部分、获取 Android 并开始使用
