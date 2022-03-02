@@ -1,1 +1,1 @@
-# 第一部分【Android 处理的第一步
+# 第一部分：Android Processing 的第一步
