@@ -1,3 +1,4 @@
++   [Android Studio 学习手册](README.md)
 +   [一、Android Studio 简介](01.md)
 +   [二、导航 Android Studio](02.md)
 +   [三、在 Android Studio 中编程](03.md)
@@ -14,4 +15,3 @@
 +   [十四、更多 SDK 工具](14.md)
 +   [十五、Android Wear Lab](15.md)
 +   [十六、定制 Android Studio](16.md)
-+   [Android Studio 学习手册](README.md)

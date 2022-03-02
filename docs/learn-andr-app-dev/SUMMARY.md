@@ -1,3 +1,4 @@
++   [安卓应用开发学习手册](README.md)
 +   [零、简介](00.md)
 +   [一、为 4.2 版本构建 Android IDE：获取、安装和配置 Android 开发环境](01.md)
 +   [二、探索 Android 应用开发：Android 的行话并构建您的第一个 Hello World 应用！](02.md)
@@ -18,5 +19,4 @@
 +   [十七、Android 服务：使用后台处理](17.md)
 +   [十八、广播接收器：Android 应用间通信](18.md)
 +   [十九、Android 内容供应器：访问数据存储](19.md)
-+   [二十、附录 A](20.md)
-+   [安卓应用开发学习手册](README.md)
++   [二十、附录 A：为 4.12 版和更早版本构建 Android IDE:获取、安装和配置 Android 开发环境](20.md)
