@@ -26,7 +26,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/apachecn-android-zh-pt3](https://github.com/apachecn/apachecn-android-zh-pt3) github 上提 issue.
+*   在我们的 [apachecn/apachecn-mobi-zh](https://github.com/apachecn/apachecn-mobi-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
@@ -35,24 +35,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-android-zh-pt3
-docker run -tid -p <port>:80 apachecn0/apachecn-android-zh-pt3
+docker pull apachecn0/apachecn-mobi-zh
+docker run -tid -p <port>:80 apachecn0/apachecn-mobi-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install apachecn-android-zh-pt3
-apachecn-android-zh-pt3 <port>
+pip install apachecn-mobi-zh
+apachecn-mobi-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-android-zh-pt3
-apachecn-android-zh-pt3 <port>
+npm install -g apachecn-mobi-zh
+apachecn-mobi-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
